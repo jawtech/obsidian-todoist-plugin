@@ -6,7 +6,7 @@
 .todoist-refresh-button {
   display: inline;
   margin-left: 8px;
-  margin-right: 8px;
+  margin-right: 32px;
   float: right;
 }
 
@@ -56,7 +56,7 @@
 }
 
 .todoist-success {
-  border: 1px solid var(--background-modifier-border);
+  border: 0px solid var(--background-modifier-border);
   padding: 0 10px 20px 10px;
   margin-top: 20px;
 }
